@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://leetcard.jacoblin.cool/TTanishq1?ext=heatmap)
 <!--
 **TTanishq1/TTanishq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
